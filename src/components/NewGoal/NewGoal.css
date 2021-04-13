@@ -1,0 +1,9 @@
+.new-goal{
+    margin: 2rem;
+    text-align: center;
+}
+.new-goal button{
+    border-radius: 2px;
+    cursor: pointer;
+
+}
